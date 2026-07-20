@@ -1,5 +1,9 @@
 # 💫 About Me:
-Studying at Nagaoka University Japan. I am passionate about programming, Data Analaysis, software engineering and cloud technologies. I want to explore more!
+Results-driven IT Engineer with 3+ years of enterprise infrastructure, system administration, virtualization, and cybersecurity operations
+experience within a critical aviation environment (Hamad International Airport – BHS). Skilled in Windows Server 2019, Linux (Ubuntu/CentOS),
+VMware vSphere/vCenter/ESXi, Veeam Backup & Replication, Microsoft SCCM, PAM, MFA, Cisco networking, and SCADA/OT infrastructure
+support. Proficient in incident management, patch management, endpoint security, and ITSM operations using Jira and Matrix42. Holds an
+MSc in Information & Management Systems Engineering (CGPA 4.1, Japan). ISC2 Certified in Cybersecurity and Cisco CCNA certified.
 
 
 ## 🌐 Socials:
